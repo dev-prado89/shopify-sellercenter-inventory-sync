@@ -35,3 +35,8 @@ The system processes product catalogs, matches items using SKU/UPC, and updates 
 ## Note
 
 This repository contains only a high-level example of the architecture and does not include client code or credentials.
+
+⚠️ Note
+
+This repository contains a simplified architecture example.
+The original project was developed for a client and cannot be shared publicly.
